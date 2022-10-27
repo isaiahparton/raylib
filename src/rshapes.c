@@ -920,20 +920,14 @@ void DrawRectangleLinesEx(Rectangle rec, float lineThick, Color color)
 }
 
 // Draw rectangle with rounded edges
-void DrawRectangleRounded(Rectangle rec, float roundness, int segments, Color color)
+void DrawRectangleRounded(Rectangle rec, float radius, int segments, Color color)
 {
     // Not a rounded rectangle
-    if ((roundness <= 0.0f) || (rec.width < 1) || (rec.height < 1 ))
+    if ((radius <= 0.0f) || (rec.width < 1) || (rec.height < 1 ))
     {
         DrawRectangleRec(rec, color);
         return;
     }
-
-    if (roundness >= 1.0f) roundness = 1.0f;
-
-    // Calculate corner radius
-    float radius = (rec.width > rec.height)? (rec.height*roundness)/2 : (rec.width*roundness)/2;
-    if (radius <= 0.0f) return;
 
     // Calculate number of segments to use for the corners
     if (segments < 4)
@@ -1138,22 +1132,16 @@ void DrawRectangleRounded(Rectangle rec, float roundness, int segments, Color co
 }
 
 // Draw rectangle with rounded edges outline
-void DrawRectangleRoundedLines(Rectangle rec, float roundness, int segments, float lineThick, Color color)
+void DrawRectangleRoundedLines(Rectangle rec, float radius, int segments, float lineThick, Color color)
 {
     if (lineThick < 0) lineThick = 0;
 
     // Not a rounded rectangle
-    if (roundness <= 0.0f)
+    if (radius <= 0.0f)
     {
         DrawRectangleLinesEx((Rectangle){rec.x-lineThick, rec.y-lineThick, rec.width+2*lineThick, rec.height+2*lineThick}, lineThick, color);
         return;
     }
-
-    if (roundness >= 1.0f) roundness = 1.0f;
-
-    // Calculate corner radius
-    float radius = (rec.width > rec.height)? (rec.height*roundness)/2 : (rec.width*roundness)/2;
-    if (radius <= 0.0f) return;
 
     // Calculate number of segments to use for the corners
     if (segments < 4)

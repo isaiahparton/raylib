@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Swap",
+				"ArenaSwapCells"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/isaiah/Development/raylib/README.md",
+			"settings":
+			{
+				"buffer_size": 10246,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"odin",
+				"Set Syntax: Odin"
+			],
+			[
+				"lsp laun",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp start",
+				"LSP: Restart Server"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"LSP: ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: ",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 228.0,
+		"history":
+		[
+			"a",
+			"a = 2 + 3",
+			"a = 1",
+			"start",
+			"asdpfjioj",
+			"x",
+			"um",
+			"help",
+			"build.bat",
+			"odin"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/isaiah/Development/raylib",
+		"/home/isaiah/Development/raylib/projects",
+		"/home/isaiah/Development/raylib/projects/SublimeText"
+	],
+	"file_history":
+	[
+		"/home/isaiah/Development/Projects/CRACKED PRISM/release.sh",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Text.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Sprite.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/Background.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Item.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Main.odin",
+		"/home/isaiah/Development/Odin/vendor/raylib/raylib.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Common.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/GearPhysics.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Physics.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Game.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Gui.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Arena.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Gear.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/GearSystems.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Sound.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/GearKinds.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/ArenaMatrix.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Cell.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Chunk.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Editor.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Light.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/README.md",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/Vignette.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/release.sh",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/Sunlight.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/ShadowMap.fs",
+		"/home/isaiah/Development/Projects/POS/Main.cpp",
+		"/home/isaiah/Development/Projects/PRISM/build.sh",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/um.world",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/uh.world",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/smol.world",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/Shadow.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/OcclusionMap.fs",
+		"/home/isaiah/Development/Projects/quadratus_vs/build.sh",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/shadow.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/gradient.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/grayscale.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/oclusion_map.glsl",
+		"/home/isaiah/Development/Projects/Manifold/build.sh",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/gradient.glsl",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/light_spread.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/light.fs",
+		"/home/isaiah/.cache/.fr-Dv8sBs/dis.pyo",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/shockwave.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Console.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/ols.json",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/blur.fs",
+		"/home/isaiah/Development/Odin/core/runtime/core_builtin.odin",
+		"/home/isaiah/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/isaiah/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/bloom.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/out/assets/shader/ao.fs",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Rope.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/Effect.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/test.sh",
+		"/home/isaiah/.config/sublime-text/Packages/User/LUDUS.sublime-build",
+		"/home/isaiah/Development/Projects/LUDUS-master/build.sh",
+		"/home/isaiah/.bashrc",
+		"/home/isaiah/.local/share/mime/packages/appliation-x-aseprite.xml",
+		"/home/isaiah/.config/sublime-text/Packages/User/Odin Project.sublime-build",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/game.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/arena.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/gearKinds.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/gearTraits.odin",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/gearSystems.odin",
+		"/home/isaiah/.config/sublime-text/Packages/User/Build.sh.sublime-build",
+		"/home/isaiah/.config/sublime-text/Packages/User/Oding Game.sublime-build",
+		"/home/isaiah/Development/Projects/LUDUS-master/source/main.odin",
+		"/C/Development/Projects/LUDUS/source/common.odin",
+		"/C/Development/Projects/LUDUS/source/constant.odin",
+		"/C/Development/Projects/LUDUS/source/game.odin",
+		"/C/Development/Projects/LUDUS/source/sprite.odin",
+		"/C/Development/Projects/LUDUS/source/bruh.data",
+		"/C/Development/Projects/LUDUS/source/chunk.odin",
+		"/C/Development/Projects/LUDUS/source/cell.odin",
+		"/C/Development/Projects/LUDUS/source/gearKinds.odin",
+		"/C/Development/Projects/LUDUS/source/physics.odin",
+		"/C/Development/Projects/LUDUS/source/rope.odin",
+		"/C/Users/Isaiah/AppData/Roaming/Sublime Text/Packages/User/Odin Game.sublime-build",
+		"/C/Development/Projects/LUDUS/ludus.sublime-project",
+		"/C/Users/Isaiah/AppData/Roaming/Sublime Text/Packages/User/odin.sublime-build",
+		"/C/Users/Isaiah/AppData/Roaming/Sublime Text/Packages/User/odin_game.sublime-build",
+		"/C/Users/Isaiah/AppData/Roaming/Sublime Text/Packages/User/odin game.sublime-build",
+		"/C/Development/Projects/LUDUS/source/debug.odin",
+		"/C/Development/Projects/LUDUS/assets/sprite/actor/duck.aseprite",
+		"/C/Development/Projects/LUDUS/.gitignore",
+		"/C/Users/Isaiah/AppData/Roaming/Sublime Text/Packages/sublime-odin-2021.09/Odin.sublime-syntax",
+		"/C/Users/Isaiah/AppData/Local/Temp/7zO02A7BF72/Odin.sublime-syntax",
+		"/C/Development/Libraries/three/examples/webgl_loader_draco.html",
+		"/C/Development/Libraries/three/examples/webgl_loader_fbx.html",
+		"/C/Development/Projects/raven/x64/Release/main.obj",
+		"/C/Development/Projects/raven/x64/Release/Sprites/player.png",
+		"/C/Applications/chirperjax-master/src/game/platform.rs",
+		"/C/Development/Projects/raven/Sprites/player.aseprite",
+		"/C/Development/Projects/socketwall/server/server.js",
+		"/C/Users/Isaiah/Documents/Development/Programming Projects/Glyph/source/scripts/text.js",
+		"/C/Users/Isaiah/Documents/Development/Programming Projects/Javascript/Stickman Adventure/1.0.15/scripts/bounds.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/isaiah/Development/raylib/README.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6372,
+								6431
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/isaiah/Development/raylib/README.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 224.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/LUDUS.sublime-build",
+	"project": "raylib.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
